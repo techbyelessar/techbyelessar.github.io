@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+h2 {
+    text-align: center;
+ 
+}
+p {
+    text-align: center;
+    font-size: medium;
+    font-weight: 300;
+}
+header {
+    text-align: center;
+    background:rgb(105, 1, 1);
+    background-size: cover;
+    color: white;
+    }
+    ul {
+        padding: 10px;
+        background: rgba(0,0,0,0.5);
+        }
+    .linkheader {
+        color: white;
+        display: inline;
+        padding: 0px 10px 0px 10px;
+      }
+    
+    .toplist {
+        display: inline;
+        padding: 0px 10px 0px 10px;
+  
+    }
+    .topimage {
+        margin: 40px 0px 0px 0px;
+        border: 7px solid white;
+        border-radius: 20px;
+      }
+      .toplink {
+        color: white;
+      }
